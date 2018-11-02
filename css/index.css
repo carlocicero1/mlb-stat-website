@@ -1,0 +1,15 @@
+.header {
+	background-color: #ff051d;
+}
+/* .bg-light {
+	background-color: red;
+} */
+.logo-text {
+	font-weight: bold;
+	border-radius: 20%;
+	border-color: black;
+}
+
+.header-logo {
+	max-height: 48px;
+}
