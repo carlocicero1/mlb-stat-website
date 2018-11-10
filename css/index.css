@@ -1,6 +1,5 @@
 .header {
-	background-color: #ff051d;
-}
+	background-color: #ff051d}
 /* .bg-light {
 	background-color: red;
 } */
@@ -12,4 +11,42 @@
 
 .header-logo {
 	max-height: 48px;
+}
+
+.search-bar {
+	margin-left: 3.5em;
+}
+.search-submit {
+	background-color: white;
+	color: black;
+	transition: none;
+	border-color: lightslategray;
+}
+.search-submit:hover {
+	background-color: white;
+	color: lightslategray;
+	border-color: white;
+
+}
+.web-footer {
+	background-color: #ff051d;
+	position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+}
+.player-head {
+	background-color: rgb(48, 42, 42);
+}
+.site-information {
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+.wrapper {
+	background-image: url("../photos/baseball_field.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
