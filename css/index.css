@@ -1,5 +1,7 @@
+
 .header {
-	background-color: #ff051d}
+	background-color: black;
+}
 /* .bg-light {
 	background-color: red;
 } */
@@ -29,7 +31,7 @@
 
 }
 .web-footer {
-	background-color: #ff051d;
+	background-color: black;
 	position: absolute;
     left: 0;
     bottom: 0;
@@ -38,15 +40,23 @@
     overflow: hidden;
 }
 .player-head {
-	background-color: rgb(48, 42, 42);
+	/* background-color: rgb(48, 42, 42); */
 }
 .site-information {
-	background-color: black;
+	/* background-color: black; */
 	text-align: center;
 	color: white;
 }
-.wrapper {
+/* .wrapper {
 	background-image: url("../photos/baseball_field.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+} */
+.wrapper {
+	background-image: url("../photos/head_background.jpg");
+
+	background-size: cover;
+}
+.portrait {
+	margin-right: 20em;
 }
